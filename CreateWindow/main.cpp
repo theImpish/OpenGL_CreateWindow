@@ -1,5 +1,5 @@
 #include <GLFW/glfw3.h>
-#include <thread>
+
 
 int main()
 {
